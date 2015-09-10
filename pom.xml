@@ -1,8 +1,8 @@
 <build>
 <plugins>
 <plugin>
-<groupId>org.apache.maven.plugins</groupId>
-<artifactId>maven-jar-plugin</artifactId>
+<groupId>ca.uwo.csd.cs2212.USERNAME</groupId>
+<artifactId>MyDemoProject</artifactId>
 <executions>
 <execution>
 <id>make-a-jar</id>
